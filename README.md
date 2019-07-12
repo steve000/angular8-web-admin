@@ -9,7 +9,7 @@ NiceFish是一个系列教学项目，都是Angular这个技术栈。
 
 - NiceFish-Admin：这是系统管理界面，基于Angular 4.x+PrimeNG，http://git.oschina.net/mumu-osc/NiceFish-Admin
 
-- NiceFish-ionic：这是一个移动端的demo，基于ionic。http://git.oschina.net/mumu-osc/nicefish-ionic
+<!-- - NiceFish-ionic：这是一个移动端的demo，基于ionic。http://git.oschina.net/mumu-osc/nicefish-ionic
 
 - NiceFish-SpringMybatis：这是Java版后台服务，http://git.oschina.net/mumu-osc/NiceFish-SpringMybatis 
 
@@ -25,7 +25,7 @@ NiceFish-Admin:   http://47.104.13.149:8080
 
 OpenWMS：http://47.104.80.251:4200
 
-（比较穷，买了一个阿里云小主机，您担待。）
+（比较穷，买了一个阿里云小主机，您担待。） -->
 
 ## 用法
 
@@ -82,7 +82,7 @@ How to: Configure your server to work with html5Mode这个小节里面把常见�
 
 @angular/cli会在项目根目录下生成一个dist目录，里面就是编译、压缩好的文件了。仔细观察你会发现，这些文件的体积已经被大幅度压缩，加上gzip之后有一些文件只剩下1/4左右的大小。
 
-## 在线交流QQ群
+<!-- ## 在线交流QQ群
 
 <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=8db5ed802cbddbf6432d7ba7dc4f2a316be020442491eb41cbfb1a12434e8cc7" class="list-group-item"><i class="fa fa-qq" aria-hidden="true"></i> Angular-1区-丝绸之路（满）</a>
 
@@ -110,9 +110,7 @@ Angular-6区-凉州（将满）
 
 大漠演讲中的所有PPT已经本项目对应的资料都在这里，您可以随意使用，https://gitee.com/mumu-osc/NiceFish/attach_files 。
 
-如果您需要教程，请自己来这里查看，http://www.ngfans.net/ ，有视频也有文字，有免费版本也有收费版，您自己看着选。
+如果您需要教程，请自己来这里查看，http://www.ngfans.net/ ，有视频也有文字，有免费版本也有收费版，您自己看着选。 -->
 
 ## 开源许可证
  MIT
-
- 你可以随意使用此项目，无需通知我，因为我可能很忙没空搭理你。
